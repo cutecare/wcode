@@ -22,7 +22,7 @@
     "build": "NODE_ENV=production npm run clean && webpack -p",
     "clean": "rimraf build",
     "prepare": "npm run build",
-    "start": "NODE_ENV=development node server ."
+    "start": "NODE_ENV=development node server"
   },
   "dependencies": {
     "express": "4.15.4",
