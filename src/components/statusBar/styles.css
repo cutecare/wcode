@@ -2,8 +2,8 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    background-color: #252526;
-    color: white;
+    background-color: white;
+    color: black;
     height: 22px;
     padding-right: 10px;
     box-shadow: 0 0 3px black;
