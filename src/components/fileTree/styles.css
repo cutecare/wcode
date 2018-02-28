@@ -16,9 +16,9 @@
 
 .FileTree .rootTitle {
     justify-content: space-between;
-    background-color: #383838;
+    background-color: white;
     height: 24px;
-    color: #CCCCCC;
+    color: black;
     padding-left: 4px;
     cursor: pointer;
     font-weight: 600;
@@ -43,7 +43,7 @@
     display: none;
     position: fixed;
     left: 146px;
-    background-color: #383838;
+    background-color: white;
     height: 23px;
 }
 
@@ -72,7 +72,7 @@
     flex-direction: row;
     align-items: center;
     justify-content: flex-start;
-    color: #CBCBCB;
+    color: black;
     cursor: pointer;
 }
 
@@ -90,7 +90,7 @@
 }
 
 .FileTree .node:hover {
-    background-color: #2A2D2E;
+    background-color: #eeeeee;
 }
 
 .FileTree .node.active, .FileTree .node.active:hover {
