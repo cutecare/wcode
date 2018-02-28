@@ -13,7 +13,7 @@ export default class TextEditor extends React.Component {
     options = {
         minimap: { enabled: false },
         selectOnLineNumbers: true,
-        theme: 'vs-dark'
+        theme: 'vs'
     };
 
     get requireConfig() {
