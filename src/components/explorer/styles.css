@@ -5,7 +5,7 @@
 }
 
 .Explorer > .title {
-    display: flex;
+    display: none;
     background-color: white;
     align-items: center;
     height: 38px;
