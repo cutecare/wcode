@@ -14,7 +14,7 @@
 
 .Header a, .Header span {
     text-decoration: none;
-    color: white;
+    color: black;
 }
 
 .Header .name {
