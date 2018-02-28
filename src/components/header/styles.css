@@ -3,8 +3,8 @@
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    background-color: #007ACC;
-    color: white;
+    background-color: white;
+    color: black;
     height: 22px;
     padding-left: 10px;
     padding-right: 10px;
@@ -42,7 +42,7 @@
     top: 22px;
     min-width: 120px;
     z-index: 100;
-    background-color: #2D2F31;
+    background-color: white;
     border-bottom-right-radius: 2px;
     border-bottom-left-radius: 2px;
     box-shadow: 0 3px 10px black;
@@ -58,7 +58,7 @@
 }
 
 .Menu .menuItem .submenu div.item {
-    color: #BBBBBB;
+    color: #eeeeee;
     height: 26px;
     display: flex;
     align-items: center;
@@ -67,7 +67,7 @@
 }
 
 .Menu .menuItem .submenu div.item:hover {
-    background-color: #3A3A3A;
+    background-color: white;
 }
 
 .Menu .menuItem .submenu div.separator {
