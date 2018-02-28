@@ -9,7 +9,6 @@
     background-color: white;
     padding-left: 10px;
     padding-right: 10px;
-    border-right: 1px solid #1E1E1E;
 }
 
 .FileTab:last-child {
@@ -41,5 +40,5 @@
 }
 
 .FileTab.active .title {
-    color: white;
+    color: black;
 }
